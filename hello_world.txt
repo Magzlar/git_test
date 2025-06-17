@@ -1,2 +1,3 @@
 This is a testing text file. 
 testing change
+testing another change of settings to prevent having to use Vim editor when -m is omitted from git commit
